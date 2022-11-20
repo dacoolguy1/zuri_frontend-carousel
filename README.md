@@ -2,4 +2,4 @@
 the zuri frontend carousel task
 
 
-link : https://github.com/dacoolguy1/zuri_frontend-carousel
+link to the live page : https://replit.com/@dacoolguy1/zuricarouselwork?v=1
